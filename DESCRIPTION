@@ -1,11 +1,65 @@
 Package: raukr
-Title: What the Package Does (One Line, Title Case)
+Title: Install all dependencies for RaukR
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Sebastian", "DiLorenzo", , "sebastian.dilorenzo@nbis.se", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Install all dependencies for RaukR
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
+Imports:
+  bsplus,
+	microbenchmark,
+	profr,
+	dplyr,
+	tidyr,
+	stringr,
+	htmlTable,
+	kableExtra,
+	formattable,
+	gt,
+	DT,
+	reactable,
+	ggplot2,
+	highcharter,
+	plotly,
+	ggiraph,
+	dygraphs,
+	networkD3,
+	leaflet,
+	crosstalk,
+	fontawesome,
+	knitr,
+	ggrepel,
+	patchwork,
+	extrafont,
+	usethis,
+	gitcreds,
+	reticulate,
+	keras,
+	tidyverse,
+	R6,
+	devtools,
+	roxygen2,
+	rmarkdown,
+	newpkg,
+	purrr,
+	optparse,
+	shiny,
+	htmltools,
+	bslib,
+	palmerpenguins,
+	colourpicker,
+	hues,
+	RNASeqPower,
+	shinythemes,
+	rsconnect,
+	eulerr,
+	EDAWR,
+	here,
+	ShortRead,
+	lubridate,
+	nycflights13,
+	googledrive
