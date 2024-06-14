@@ -63,3 +63,5 @@ Imports:
 	lubridate,
 	nycflights13,
 	googledrive
+URL: https://github.com/Sebastian-D/raukr
+BugReports: https://github.com/Sebastian-D/raukr/issues
